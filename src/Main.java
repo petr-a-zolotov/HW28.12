@@ -104,6 +104,6 @@ public class Main {
         var allWoker2 = allWorker + 94;
         var time2 = allWoker2 * timeOneWorker;
 
-        System.out.println("Если в компании работает" + allWoker2 + ",то всего" + time2 + "может быть использовано часов");
+        System.out.println("Если в компании работает" + allWoker2 + ",то всего" + time2 + "может быть использовано ");
     }
 }
